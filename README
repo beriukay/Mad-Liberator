@@ -1,0 +1,20 @@
+A program that takes an input file, parses it and allows the user to manually or automatically repopulate the document with new parts of speech, just like Mad Libs of olde. It needs a smarter language analysis; as it does not handle plurals, numbers, verb tenses; and if a word can be interpreted as (e.g.) both a noun and a verb, it defaults to calling it a noun.
+
+This program is a result of trying to meet the course requirements in CS103 for the final project. The instructions:
+
+Comprehensive Assignment
+Write a Java program of your choice that demonstrates the following concepts:
+
+•Input and Output.
+•Selection (e.g. if statement).
+•Arithmetic.
+•Loops.
+•Arrays.
+•Classes/Objects
+•Searching and/or sorting arrays.
+
+You are free to choose how your program demonstrates these concepts, but a portion of your grade will be based on your creativity in solving this assignment, as follows:
+
+•15 points – demonstration of concepts listed above.
+•15 points – creativity in demonstrating the concept (this portion is extra credit, so you can get a maximum of 30/15 points for this assignment)
+
